@@ -1,8 +1,8 @@
 // This file overwrites the stock UV config.js
 
 self.__uv$config = {
-  prefix: "/hyperviolet-us-server/uv/service/",
-  bare: "https://8vk2d6-6987.csb.app/",
+  prefix: "/hyperviolet-french-server/uv/service/",
+  bare: "https://x3hddv-8080.csb.app/",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: "/hyperviolet/uv/uv.handler.js",
